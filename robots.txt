@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Allow real-time AI search crawlers
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Block training crawlers (protect IP)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://ronrodrigotres-dev.github.io/ron3ia-site/sitemap.xml
