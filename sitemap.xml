@@ -18,3 +18,12 @@
   </url>
 
 </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ronrodrigotres-dev.github.io/ron3ia-site/</loc>
+  </url>
+  <url>
+    <loc>https://ronrodrigotres-dev.github.io/ron3ia-site/entidad.html</loc>
+  </url>
+</urlset>
